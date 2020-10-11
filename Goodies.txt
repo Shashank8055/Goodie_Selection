@@ -1,0 +1,11 @@
+sl,goods, price
+0,Fitbit Plus,7980
+1,IPods,22349
+2,MI Band,999
+3,Cult Pass,2799
+4,Macbook Pro,229900
+5,Digital Camera,11101
+6,Alexa,9999
+7,Sandwich Toaster,2195
+8,Microwave Oven,9800
+9,Scale,4999
