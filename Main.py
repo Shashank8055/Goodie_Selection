@@ -1,5 +1,5 @@
 
-import pandas as pd
+#import pandas as pd
 Data_txt = open('Goodies.txt', 'r')
 data = { 'Goodies': ['Fitbit Plus', 'IPods', 'MI Band', 'Cult Pass', 'Macbook Pro', 'Digital Camera', 'Alexa', 'Sandwich Toaster', 'Microwave Oven', 'Scale'], 'Price':
          [7980, 22349, 999, 2799, 229900, 11101, 9999, 2195, 9800, 4999]}
